@@ -42,16 +42,16 @@ Security effectiveness degrades over time as threats evolve, configurations drif
 
 ## Related Topics
 
-- [[6.1-Introduction-to-OWASP-Top-10-vulnerabilities-20212023-edition|↓ Introduction to OWASP Top 10 vulnerabilities (2021/2023 edition)]]
-- [[6.2-Injection-attacks-SQL-injection-command-injection-LDAP-injection|↓ Injection attacks: SQL injection, command injection, LDAP injection]]
-- [[6.3-Cross-Site-Scripting-XSS-Reflected-Stored-and-DOM-based|↓ Cross-Site Scripting (XSS): Reflected, Stored, and DOM-based]]
-- [[6.4-Cross-Site-Request-Forgery-CSRF-and-prevention-techniques|↓ Cross-Site Request Forgery (CSRF) and prevention techniques]]
-- [[6.5-Broken-authentication-and-session-management-vulnerabilities|↓ Broken authentication and session management vulnerabilities]]
-- [[6.6-Security-misconfiguration-Default-credentials-unnecessary-services|↓ Security misconfiguration: Default credentials, unnecessary services]]
-- [[6.7-Insecure-Direct-Object-References-IDOR-and-access-control-issues|↓ Insecure Direct Object References (IDOR) and access control issues]]
-- [[6.8-Using-Burp-Suite-for-web-application-security-testing|↓ Using Burp Suite for web application security testing]]
-- [[6.9-API-security-basics-Authentication-rate-limiting-input-validation|↓ API security basics: Authentication, rate limiting, input validation]]
-- [[6.10-Lab-Exploit-and-fix-vulnerabilities-in-DVWA-or-WebGoat|↓ Lab: Exploit and fix vulnerabilities in DVWA or WebGoat]]
+- [↓ Introduction to OWASP Top 10 vulnerabilities (2021/2023 edition)](6.1-Introduction-to-OWASP-Top-10-vulnerabilities-20212023-edition.md)
+- [↓ Injection attacks: SQL injection, command injection, LDAP injection](6.2-Injection-attacks-SQL-injection-command-injection-LDAP-injection.md)
+- [↓ Cross-Site Scripting (XSS): Reflected, Stored, and DOM-based](6.3-Cross-Site-Scripting-XSS-Reflected-Stored-and-DOM-based.md)
+- [↓ Cross-Site Request Forgery (CSRF) and prevention techniques](6.4-Cross-Site-Request-Forgery-CSRF-and-prevention-techniques.md)
+- [↓ Broken authentication and session management vulnerabilities](6.5-Broken-authentication-and-session-management-vulnerabilities.md)
+- [↓ Security misconfiguration: Default credentials, unnecessary services](6.6-Security-misconfiguration-Default-credentials-unnecessary-services.md)
+- [↓ Insecure Direct Object References (IDOR) and access control issues](6.7-Insecure-Direct-Object-References-IDOR-and-access-control-issues.md)
+- [↓ Using Burp Suite for web application security testing](6.8-Using-Burp-Suite-for-web-application-security-testing.md)
+- [↓ API security basics: Authentication, rate limiting, input validation](6.9-API-security-basics-Authentication-rate-limiting-input-validation.md)
+- [↓ Lab: Exploit and fix vulnerabilities in DVWA or WebGoat](6.10-Lab-Exploit-and-fix-vulnerabilities-in-DVWA-or-WebGoat.md)
 
 ## References & Further Reading
 

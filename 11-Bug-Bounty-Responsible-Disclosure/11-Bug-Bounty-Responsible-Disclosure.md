@@ -40,16 +40,16 @@ Practical implementation of these concepts involves various tools and techniques
 
 ## Related Topics
 
-- [[11.1-Introduction-to-bug-bounty-programs-HackerOne-Bugcrowd-Synack|↓ Introduction to bug bounty programs: HackerOne, Bugcrowd, Synack]]
-- [[11.2-Understanding-bug-bounty-scope-and-rules-of-engagement|↓ Understanding bug bounty scope and rules of engagement]]
-- [[11.3-Vulnerability-hunting-methodology-and-approach|↓ Vulnerability hunting methodology and approach]]
-- [[11.4-Responsible-disclosure-vs-full-disclosure-debate|↓ Responsible disclosure vs. full disclosure debate]]
-- [[11.5-Writing-effective-bug-reports-Reproducibility-impact-proof-of-concept|↓ Writing effective bug reports: Reproducibility, impact, proof of concept]]
-- [[11.6-Communication-with-security-teams-Professionalism-and-ethics|↓ Communication with security teams: Professionalism and ethics]]
-- [[11.7-Understanding-severity-ratings-and-bounty-payouts|↓ Understanding severity ratings and bounty payouts]]
-- [[11.8-Legal-considerations-Authorization-liability-safe-harbor-policies|↓ Legal considerations: Authorization, liability, safe harbor policies]]
-- [[11.9-Building-reputation-on-bug-bounty-platforms|↓ Building reputation on bug bounty platforms]]
-- [[11.10-Lab-Create-a-complete-bug-bounty-report-with-PoC-for-a-practice-vulnerability|↓ Lab: Create a complete bug bounty report with PoC for a practice vulnerability]]
+- [↓ Introduction to bug bounty programs: HackerOne, Bugcrowd, Synack](11.1-Introduction-to-bug-bounty-programs-HackerOne-Bugcrowd-Synack.md)
+- [↓ Understanding bug bounty scope and rules of engagement](11.2-Understanding-bug-bounty-scope-and-rules-of-engagement.md)
+- [↓ Vulnerability hunting methodology and approach](11.3-Vulnerability-hunting-methodology-and-approach.md)
+- [↓ Responsible disclosure vs. full disclosure debate](11.4-Responsible-disclosure-vs-full-disclosure-debate.md)
+- [↓ Writing effective bug reports: Reproducibility, impact, proof of concept](11.5-Writing-effective-bug-reports-Reproducibility-impact-proof-of-concept.md)
+- [↓ Communication with security teams: Professionalism and ethics](11.6-Communication-with-security-teams-Professionalism-and-ethics.md)
+- [↓ Understanding severity ratings and bounty payouts](11.7-Understanding-severity-ratings-and-bounty-payouts.md)
+- [↓ Legal considerations: Authorization, liability, safe harbor policies](11.8-Legal-considerations-Authorization-liability-safe-harbor-policies.md)
+- [↓ Building reputation on bug bounty platforms](11.9-Building-reputation-on-bug-bounty-platforms.md)
+- [↓ Lab: Create a complete bug bounty report with PoC for a practice vulnerability](11.10-Lab-Create-a-complete-bug-bounty-report-with-PoC-for-a-practice-vulnerability.md)
 
 ## References & Further Reading
 

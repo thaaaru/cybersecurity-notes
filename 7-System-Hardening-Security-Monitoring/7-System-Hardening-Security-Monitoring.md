@@ -42,16 +42,16 @@ Security effectiveness degrades over time as threats evolve, configurations drif
 
 ## Related Topics
 
-- [[7.1-System-hardening-principles-and-attack-surface-reduction|↓ System hardening principles and attack surface reduction]]
-- [[7.2-Applying-CIS-Benchmarks-to-Windows-and-Linux-systems|↓ Applying CIS Benchmarks to Windows and Linux systems]]
-- [[7.3-Patch-management-Vulnerability-prioritization-and-deployment-strategies|↓ Patch management: Vulnerability prioritization and deployment strategies]]
-- [[7.4-Disabling-unnecessary-services-and-removing-unused-software|↓ Disabling unnecessary services and removing unused software]]
-- [[7.5-Host-based-firewalls-iptables-Windows-Firewall-configuration|↓ Host-based firewalls: iptables, Windows Firewall configuration]]
-- [[7.6-Antivirus-and-EDR-Endpoint-Detection-and-Response-tools|↓ Antivirus and EDR (Endpoint Detection and Response) tools]]
-- [[7.7-Introduction-to-SIEM-Centralized-log-collection-and-analysis|↓ Introduction to SIEM: Centralized log collection and analysis]]
-- [[7.8-Log-correlation-and-alert-tuning-to-reduce-false-positives|↓ Log correlation and alert tuning to reduce false positives]]
-- [[7.9-Security-monitoring-with-Splunk-or-ELK-Stack-basics|↓ Security monitoring with Splunk or ELK Stack basics]]
-- [[7.10-Lab-Configure-monitoring-alerts-and-respond-to-simulated-security-events|↓ Lab: Configure monitoring alerts and respond to simulated security events]]
+- [↓ System hardening principles and attack surface reduction](7.1-System-hardening-principles-and-attack-surface-reduction.md)
+- [↓ Applying CIS Benchmarks to Windows and Linux systems](7.2-Applying-CIS-Benchmarks-to-Windows-and-Linux-systems.md)
+- [↓ Patch management: Vulnerability prioritization and deployment strategies](7.3-Patch-management-Vulnerability-prioritization-and-deployment-strategies.md)
+- [↓ Disabling unnecessary services and removing unused software](7.4-Disabling-unnecessary-services-and-removing-unused-software.md)
+- [↓ Host-based firewalls: iptables, Windows Firewall configuration](7.5-Host-based-firewalls-iptables-Windows-Firewall-configuration.md)
+- [↓ Antivirus and EDR (Endpoint Detection and Response) tools](7.6-Antivirus-and-EDR-Endpoint-Detection-and-Response-tools.md)
+- [↓ Introduction to SIEM: Centralized log collection and analysis](7.7-Introduction-to-SIEM-Centralized-log-collection-and-analysis.md)
+- [↓ Log correlation and alert tuning to reduce false positives](7.8-Log-correlation-and-alert-tuning-to-reduce-false-positives.md)
+- [↓ Security monitoring with Splunk or ELK Stack basics](7.9-Security-monitoring-with-Splunk-or-ELK-Stack-basics.md)
+- [↓ Lab: Configure monitoring alerts and respond to simulated security events](7.10-Lab-Configure-monitoring-alerts-and-respond-to-simulated-security-events.md)
 
 ## References & Further Reading
 

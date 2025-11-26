@@ -42,16 +42,16 @@ Evidence preservation requirements may conflict with rapid recovery objectives. 
 
 ## Related Topics
 
-- [[9.1-Incident-response-lifecycle-NIST-SP-800-61-framework|↓ Incident response lifecycle: NIST SP 800-61 framework]]
-- [[9.2-Preparation-Building-an-incident-response-plan-and-toolkit|↓ Preparation: Building an incident response plan and toolkit]]
-- [[9.3-Detection-and-analysis-Identifying-security-events-and-incidents|↓ Detection and analysis: Identifying security events and incidents]]
-- [[9.4-Indicators-of-Compromise-IOCs-IPs-domains-file-hashes-patterns|↓ Indicators of Compromise (IOCs): IPs, domains, file hashes, patterns]]
-- [[9.5-Containment-strategies-Short-term-and-long-term-containment|↓ Containment strategies: Short-term and long-term containment]]
-- [[9.6-Eradication-Removing-threats-and-closing-attack-vectors|↓ Eradication: Removing threats and closing attack vectors]]
-- [[9.7-Recovery-Restoring-systems-and-validating-security|↓ Recovery: Restoring systems and validating security]]
-- [[9.8-Post-incident-analysis-Lessons-learned-and-process-improvement|↓ Post-incident analysis: Lessons learned and process improvement]]
-- [[9.9-Digital-forensics-basics-Evidence-preservation-and-chain-of-custody|↓ Digital forensics basics: Evidence preservation and chain of custody]]
-- [[9.10-Lab-Respond-to-a-simulated-ransomwarephishing-incident-scenario|↓ Lab: Respond to a simulated ransomware/phishing incident scenario]]
+- [↓ Incident response lifecycle: NIST SP 800-61 framework](9.1-Incident-response-lifecycle-NIST-SP-800-61-framework.md)
+- [↓ Preparation: Building an incident response plan and toolkit](9.2-Preparation-Building-an-incident-response-plan-and-toolkit.md)
+- [↓ Detection and analysis: Identifying security events and incidents](9.3-Detection-and-analysis-Identifying-security-events-and-incidents.md)
+- [↓ Indicators of Compromise (IOCs): IPs, domains, file hashes, patterns](9.4-Indicators-of-Compromise-IOCs-IPs-domains-file-hashes-patterns.md)
+- [↓ Containment strategies: Short-term and long-term containment](9.5-Containment-strategies-Short-term-and-long-term-containment.md)
+- [↓ Eradication: Removing threats and closing attack vectors](9.6-Eradication-Removing-threats-and-closing-attack-vectors.md)
+- [↓ Recovery: Restoring systems and validating security](9.7-Recovery-Restoring-systems-and-validating-security.md)
+- [↓ Post-incident analysis: Lessons learned and process improvement](9.8-Post-incident-analysis-Lessons-learned-and-process-improvement.md)
+- [↓ Digital forensics basics: Evidence preservation and chain of custody](9.9-Digital-forensics-basics-Evidence-preservation-and-chain-of-custody.md)
+- [↓ Lab: Respond to a simulated ransomware/phishing incident scenario](9.10-Lab-Respond-to-a-simulated-ransomwarephishing-incident-scenario.md)
 
 ## References & Further Reading
 

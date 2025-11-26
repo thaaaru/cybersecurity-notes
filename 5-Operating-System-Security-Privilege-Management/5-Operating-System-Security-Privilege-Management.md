@@ -40,16 +40,16 @@ Practical implementation of these concepts involves various tools and techniques
 
 ## Related Topics
 
-- [[5.1-Windows-security-fundamentals-User-Account-Control-UAC-Group-Policy|↓ Windows security fundamentals: User Account Control (UAC), Group Policy]]
-- [[5.2-LinuxUnix-permissions-File-ownership-chmod-umask-ACLs|↓ Linux/Unix permissions: File ownership, chmod, umask, ACLs]]
-- [[5.3-Principle-of-least-privilege-and-role-based-access-control-RBAC|↓ Principle of least privilege and role-based access control (RBAC)]]
-- [[5.4-User-and-group-management-Creating-modifying-and-auditing-accounts|↓ User and group management: Creating, modifying, and auditing accounts]]
-- [[5.5-Windows-Event-Logs-Security-Application-System-log-analysis|↓ Windows Event Logs: Security, Application, System log analysis]]
-- [[5.6-Linux-log-files-varlog-syslog-authlog-journalctl|↓ Linux log files: /var/log, syslog, auth.log, journalctl]]
-- [[5.7-Password-policies-and-multi-factor-authentication-enforcement|↓ Password policies and multi-factor authentication enforcement]]
-- [[5.8-Privilege-escalation-vulnerabilities-and-prevention|↓ Privilege escalation vulnerabilities and prevention]]
-- [[5.9-Security-baselines-CIS-Benchmarks-for-Windows-and-Linux|↓ Security baselines: CIS Benchmarks for Windows and Linux]]
-- [[5.10-Lab-Audit-and-harden-a-vulnerable-system-Windows-and-Linux|↓ Lab: Audit and harden a vulnerable system (Windows and Linux)]]
+- [↓ Windows security fundamentals: User Account Control (UAC), Group Policy](5.1-Windows-security-fundamentals-User-Account-Control-UAC-Group-Policy.md)
+- [↓ Linux/Unix permissions: File ownership, chmod, umask, ACLs](5.2-LinuxUnix-permissions-File-ownership-chmod-umask-ACLs.md)
+- [↓ Principle of least privilege and role-based access control (RBAC)](5.3-Principle-of-least-privilege-and-role-based-access-control-RBAC.md)
+- [↓ User and group management: Creating, modifying, and auditing accounts](5.4-User-and-group-management-Creating-modifying-and-auditing-accounts.md)
+- [↓ Windows Event Logs: Security, Application, System log analysis](5.5-Windows-Event-Logs-Security-Application-System-log-analysis.md)
+- [↓ Linux log files: /var/log, syslog, auth.log, journalctl](5.6-Linux-log-files-varlog-syslog-authlog-journalctl.md)
+- [↓ Password policies and multi-factor authentication enforcement](5.7-Password-policies-and-multi-factor-authentication-enforcement.md)
+- [↓ Privilege escalation vulnerabilities and prevention](5.8-Privilege-escalation-vulnerabilities-and-prevention.md)
+- [↓ Security baselines: CIS Benchmarks for Windows and Linux](5.9-Security-baselines-CIS-Benchmarks-for-Windows-and-Linux.md)
+- [↓ Lab: Audit and harden a vulnerable system (Windows and Linux)](5.10-Lab-Audit-and-harden-a-vulnerable-system-Windows-and-Linux.md)
 
 ## References & Further Reading
 

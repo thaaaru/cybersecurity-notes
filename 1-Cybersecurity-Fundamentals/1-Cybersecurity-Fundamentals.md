@@ -40,16 +40,16 @@ Practical implementation of these concepts involves various tools and techniques
 
 ## Related Topics
 
-- [[1.1-Introduction-to-Cybersecurity-Threat-landscape-and-real-world-attack-scenarios|↓ Introduction to Cybersecurity: Threat landscape and real-world attack scenarios]]
-- [[1.2-CIA-Triad-Confidentiality-Integrity-and-Availability-with-practical-examples|↓ CIA Triad: Confidentiality, Integrity, and Availability with practical examples]]
-- [[1.3-Ethical-hacking-principles-and-legal-boundaries-Computer-Fraud-Abuse-Act-CFAA|↓ Ethical hacking principles and legal boundaries (Computer Fraud & Abuse Act, CFAA)]]
-- [[1.4-Types-of-threat-actors-Script-kiddies-hacktivists-APTs-nation-states|↓ Types of threat actors: Script kiddies, hacktivists, APTs, nation-states]]
-- [[1.5-Common-attack-vectors-Phishing-malware-social-engineering-ransomware|↓ Common attack vectors: Phishing, malware, social engineering, ransomware]]
-- [[1.6-Compliance-frameworks-overview-ISO-27001-GDPR-PCI-DSS|↓ Compliance frameworks overview: ISO 27001, GDPR, PCI-DSS]]
-- [[1.7-Risk-assessment-basics-Asset-identification-threat-modeling-risk-scoring|↓ Risk assessment basics: Asset identification, threat modeling, risk scoring]]
-- [[1.8-Cyber-hygiene-best-practices-Password-management-MFA-software-updates|↓ Cyber hygiene best practices: Password management, MFA, software updates]]
-- [[1.9-Case-study-analysis-Recent-data-breaches-and-lessons-learned|↓ Case study analysis: Recent data breaches and lessons learned]]
-- [[1.10-Lab-Set-up-a-secure-personal-cybersecurity-environment|↓ Lab: Set up a secure personal cybersecurity environment]]
+- [↓ Introduction to Cybersecurity: Threat landscape and real-world attack scenarios](1.1-Introduction-to-Cybersecurity-Threat-landscape-and-real-world-attack-scenarios.md)
+- [↓ CIA Triad: Confidentiality, Integrity, and Availability with practical examples](1.2-CIA-Triad-Confidentiality-Integrity-and-Availability-with-practical-examples.md)
+- [↓ Ethical hacking principles and legal boundaries (Computer Fraud & Abuse Act, CFAA)](1.3-Ethical-hacking-principles-and-legal-boundaries-Computer-Fraud-Abuse-Act-CFAA.md)
+- [↓ Types of threat actors: Script kiddies, hacktivists, APTs, nation-states](1.4-Types-of-threat-actors-Script-kiddies-hacktivists-APTs-nation-states.md)
+- [↓ Common attack vectors: Phishing, malware, social engineering, ransomware](1.5-Common-attack-vectors-Phishing-malware-social-engineering-ransomware.md)
+- [↓ Compliance frameworks overview: ISO 27001, GDPR, PCI-DSS](1.6-Compliance-frameworks-overview-ISO-27001-GDPR-PCI-DSS.md)
+- [↓ Risk assessment basics: Asset identification, threat modeling, risk scoring](1.7-Risk-assessment-basics-Asset-identification-threat-modeling-risk-scoring.md)
+- [↓ Cyber hygiene best practices: Password management, MFA, software updates](1.8-Cyber-hygiene-best-practices-Password-management-MFA-software-updates.md)
+- [↓ Case study analysis: Recent data breaches and lessons learned](1.9-Case-study-analysis-Recent-data-breaches-and-lessons-learned.md)
+- [↓ Lab: Set up a secure personal cybersecurity environment](1.10-Lab-Set-up-a-secure-personal-cybersecurity-environment.md)
 
 ## References & Further Reading
 

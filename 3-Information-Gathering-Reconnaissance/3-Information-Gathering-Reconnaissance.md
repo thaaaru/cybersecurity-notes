@@ -42,16 +42,16 @@ Security effectiveness degrades over time as threats evolve, configurations drif
 
 ## Related Topics
 
-- [[3.1-Introduction-to-OSINT-Open-Source-Intelligence-and-its-ethical-use|↓ Introduction to OSINT (Open Source Intelligence) and its ethical use]]
-- [[3.2-Passive-reconnaissance-Search-engines-Google-Dorks-cached-pages|↓ Passive reconnaissance: Search engines, Google Dorks, cached pages]]
-- [[3.3-WHOIS-lookups-and-domain-registration-information|↓ WHOIS lookups and domain registration information]]
-- [[3.4-DNS-enumeration-Subdomain-discovery-DNS-records-A-MX-TXT-NS|↓ DNS enumeration: Subdomain discovery, DNS records (A, MX, TXT, NS)]]
-- [[3.5-Social-media-intelligence-gathering-and-metadata-analysis|↓ Social media intelligence gathering and metadata analysis]]
-- [[3.6-Email-harvesting-techniques-using-TheHarvester|↓ Email harvesting techniques using TheHarvester]]
-- [[3.7-Shodan-and-Censys-Finding-exposed-services-and-devices|↓ Shodan and Censys: Finding exposed services and devices]]
-- [[3.8-Using-Maltego-for-visual-reconnaissance-and-relationship-mapping|↓ Using Maltego for visual reconnaissance and relationship mapping]]
-- [[3.9-OSINT-automation-with-Recon-ng-framework|↓ OSINT automation with Recon-ng framework]]
-- [[3.10-Lab-Create-a-complete-reconnaissance-report-on-a-target-organization-authorizedsandbox|↓ Lab: Create a complete reconnaissance report on a target organization (authorized/sandbox)]]
+- [↓ Introduction to OSINT (Open Source Intelligence) and its ethical use](3.1-Introduction-to-OSINT-Open-Source-Intelligence-and-its-ethical-use.md)
+- [↓ Passive reconnaissance: Search engines, Google Dorks, cached pages](3.2-Passive-reconnaissance-Search-engines-Google-Dorks-cached-pages.md)
+- [↓ WHOIS lookups and domain registration information](3.3-WHOIS-lookups-and-domain-registration-information.md)
+- [↓ DNS enumeration: Subdomain discovery, DNS records (A, MX, TXT, NS)](3.4-DNS-enumeration-Subdomain-discovery-DNS-records-A-MX-TXT-NS.md)
+- [↓ Social media intelligence gathering and metadata analysis](3.5-Social-media-intelligence-gathering-and-metadata-analysis.md)
+- [↓ Email harvesting techniques using TheHarvester](3.6-Email-harvesting-techniques-using-TheHarvester.md)
+- [↓ Shodan and Censys: Finding exposed services and devices](3.7-Shodan-and-Censys-Finding-exposed-services-and-devices.md)
+- [↓ Using Maltego for visual reconnaissance and relationship mapping](3.8-Using-Maltego-for-visual-reconnaissance-and-relationship-mapping.md)
+- [↓ OSINT automation with Recon-ng framework](3.9-OSINT-automation-with-Recon-ng-framework.md)
+- [↓ Lab: Create a complete reconnaissance report on a target organization (authorized/sandbox)](3.10-Lab-Create-a-complete-reconnaissance-report-on-a-target-organization-authorizedsandbox.md)
 
 ## References & Further Reading
 

@@ -40,16 +40,16 @@ Practical implementation of these concepts involves various tools and techniques
 
 ## Related Topics
 
-- [[10.1-Comprehensive-security-assessment-methodology-Planning-and-scoping|↓ Comprehensive security assessment methodology: Planning and scoping]]
-- [[10.2-Conducting-end-to-end-security-testing-Recon-Scanning-Exploitation-Reporting|↓ Conducting end-to-end security testing: Recon → Scanning → Exploitation → Reporting]]
-- [[10.3-Professional-report-writing-Executive-summary-technical-findings-recommendations|↓ Professional report writing: Executive summary, technical findings, recommendations]]
-- [[10.4-Creating-visual-reports-and-risk-matrices-for-stakeholders|↓ Creating visual reports and risk matrices for stakeholders]]
-- [[10.5-Cybersecurity-career-paths-SOC-Analyst-Penetration-Tester-Security-Engineer-CISO|↓ Cybersecurity career paths: SOC Analyst, Penetration Tester, Security Engineer, CISO]]
-- [[10.6-Certification-roadmap-CEH-Security-OSCP-CISSP-GIAC-certifications|↓ Certification roadmap: CEH, Security+, OSCP, CISSP, GIAC certifications]]
-- [[10.7-Building-a-cybersecurity-portfolio-and-GitHub-presence|↓ Building a cybersecurity portfolio and GitHub presence]]
-- [[10.8-Resume-and-LinkedIn-optimization-for-cybersecurity-roles|↓ Resume and LinkedIn optimization for cybersecurity roles]]
-- [[10.9-Interview-preparation-Technical-questions-and-behavioral-scenarios|↓ Interview preparation: Technical questions and behavioral scenarios]]
-- [[10.10-Capstone-project-Complete-security-assessment-with-professional-deliverables|↓ Capstone project: Complete security assessment with professional deliverables]]
+- [↓ Comprehensive security assessment methodology: Planning and scoping](10.1-Comprehensive-security-assessment-methodology-Planning-and-scoping.md)
+- [↓ Conducting end-to-end security testing: Recon → Scanning → Exploitation → Reporting](10.2-Conducting-end-to-end-security-testing-Recon-Scanning-Exploitation-Reporting.md)
+- [↓ Professional report writing: Executive summary, technical findings, recommendations](10.3-Professional-report-writing-Executive-summary-technical-findings-recommendations.md)
+- [↓ Creating visual reports and risk matrices for stakeholders](10.4-Creating-visual-reports-and-risk-matrices-for-stakeholders.md)
+- [↓ Cybersecurity career paths: SOC Analyst, Penetration Tester, Security Engineer, CISO](10.5-Cybersecurity-career-paths-SOC-Analyst-Penetration-Tester-Security-Engineer-CISO.md)
+- [↓ Certification roadmap: CEH, Security+, OSCP, CISSP, GIAC certifications](10.6-Certification-roadmap-CEH-Security-OSCP-CISSP-GIAC-certifications.md)
+- [↓ Building a cybersecurity portfolio and GitHub presence](10.7-Building-a-cybersecurity-portfolio-and-GitHub-presence.md)
+- [↓ Resume and LinkedIn optimization for cybersecurity roles](10.8-Resume-and-LinkedIn-optimization-for-cybersecurity-roles.md)
+- [↓ Interview preparation: Technical questions and behavioral scenarios](10.9-Interview-preparation-Technical-questions-and-behavioral-scenarios.md)
+- [↓ Capstone project: Complete security assessment with professional deliverables](10.10-Capstone-project-Complete-security-assessment-with-professional-deliverables.md)
 
 ## References & Further Reading
 

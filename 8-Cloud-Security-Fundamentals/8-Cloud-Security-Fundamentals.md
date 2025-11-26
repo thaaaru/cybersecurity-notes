@@ -42,16 +42,16 @@ Cloud environments' dynamic nature complicates security monitoring. Resources sp
 
 ## Related Topics
 
-- [[8.1-Cloud-computing-models-IaaS-PaaS-SaaS-and-shared-responsibility-model|↓ Cloud computing models: IaaS, PaaS, SaaS and shared responsibility model]]
-- [[8.2-AWSAzure-security-fundamentals-and-service-overview|↓ AWS/Azure security fundamentals and service overview]]
-- [[8.3-Identity-and-Access-Management-IAM-Users-roles-policies-MFA|↓ Identity and Access Management (IAM): Users, roles, policies, MFA]]
-- [[8.4-Common-cloud-misconfigurations-Open-S3-buckets-exposed-databases|↓ Common cloud misconfigurations: Open S3 buckets, exposed databases]]
-- [[8.5-Cloud-storage-security-Encryption-at-rest-and-in-transit|↓ Cloud storage security: Encryption at rest and in transit]]
-- [[8.6-Virtual-Private-Cloud-VPC-and-network-segmentation|↓ Virtual Private Cloud (VPC) and network segmentation]]
-- [[8.7-Security-groups-network-ACLs-and-cloud-firewalls|↓ Security groups, network ACLs, and cloud firewalls]]
-- [[8.8-Cloud-security-monitoring-CloudTrail-AWS-GuardDuty-Azure-Security-Center|↓ Cloud security monitoring: CloudTrail, AWS GuardDuty, Azure Security Center]]
-- [[8.9-Compliance-in-the-cloud-HIPAA-SOC-2-ISO-27001|↓ Compliance in the cloud: HIPAA, SOC 2, ISO 27001]]
-- [[8.10-Lab-Audit-a-cloud-environment-and-fix-security-misconfigurations|↓ Lab: Audit a cloud environment and fix security misconfigurations]]
+- [↓ Cloud computing models: IaaS, PaaS, SaaS and shared responsibility model](8.1-Cloud-computing-models-IaaS-PaaS-SaaS-and-shared-responsibility-model.md)
+- [↓ AWS/Azure security fundamentals and service overview](8.2-AWSAzure-security-fundamentals-and-service-overview.md)
+- [↓ Identity and Access Management (IAM): Users, roles, policies, MFA](8.3-Identity-and-Access-Management-IAM-Users-roles-policies-MFA.md)
+- [↓ Common cloud misconfigurations: Open S3 buckets, exposed databases](8.4-Common-cloud-misconfigurations-Open-S3-buckets-exposed-databases.md)
+- [↓ Cloud storage security: Encryption at rest and in transit](8.5-Cloud-storage-security-Encryption-at-rest-and-in-transit.md)
+- [↓ Virtual Private Cloud (VPC) and network segmentation](8.6-Virtual-Private-Cloud-VPC-and-network-segmentation.md)
+- [↓ Security groups, network ACLs, and cloud firewalls](8.7-Security-groups-network-ACLs-and-cloud-firewalls.md)
+- [↓ Cloud security monitoring: CloudTrail, AWS GuardDuty, Azure Security Center](8.8-Cloud-security-monitoring-CloudTrail-AWS-GuardDuty-Azure-Security-Center.md)
+- [↓ Compliance in the cloud: HIPAA, SOC 2, ISO 27001](8.9-Compliance-in-the-cloud-HIPAA-SOC-2-ISO-27001.md)
+- [↓ Lab: Audit a cloud environment and fix security misconfigurations](8.10-Lab-Audit-a-cloud-environment-and-fix-security-misconfigurations.md)
 
 ## References & Further Reading
 

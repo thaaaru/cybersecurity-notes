@@ -545,16 +545,16 @@ deny log ip from any to any
 
 ## Related Topics
 
-- [[2.1-OSI-and-TCPIP-models-Understanding-network-communication-layers|↓ OSI and TCP/IP models: Understanding network communication layers]]
-- [[2.2-Common-network-protocols-HTTPHTTPS-DNS-FTP-SSH-Telnet|↓ Common network protocols: HTTP/HTTPS, DNS, FTP, SSH, Telnet]]
-- [[2.3-Network-devices-and-security-Routers-switches-firewalls-IDSIPS|↓ Network devices and security: Routers, switches, firewalls, IDS/IPS]]
-- [[2.4-Introduction-to-packet-analysis-with-Wireshark|↓ Introduction to packet analysis with Wireshark]]
-- [[2.5-Capturing-and-filtering-network-traffic-BPF-filters|↓ Capturing and filtering network traffic (BPF filters)]]
-- [[2.6-Identifying-suspicious-patterns-Port-scans-ARP-spoofing-DNS-tunneling|↓ Identifying suspicious patterns: Port scans, ARP spoofing, DNS tunneling]]
-- [[2.7-Using-tcpdump-for-command-line-packet-capture|↓ Using tcpdump for command-line packet capture]]
-- [[2.8-Network-security-monitoring-NSM-concepts-and-tools|↓ Network security monitoring (NSM) concepts and tools]]
-- [[2.9-Firewall-rule-configuration-and-testing|↓ Firewall rule configuration and testing]]
-- [[2.10-Lab-Analyze-a-simulated-network-attack-using-packet-captures|↓ Lab: Analyze a simulated network attack using packet captures]]
+- [↓ OSI and TCP/IP models: Understanding network communication layers](2.1-OSI-and-TCPIP-models-Understanding-network-communication-layers.md)
+- [↓ Common network protocols: HTTP/HTTPS, DNS, FTP, SSH, Telnet](2.2-Common-network-protocols-HTTPHTTPS-DNS-FTP-SSH-Telnet.md)
+- [↓ Network devices and security: Routers, switches, firewalls, IDS/IPS](2.3-Network-devices-and-security-Routers-switches-firewalls-IDSIPS.md)
+- [↓ Introduction to packet analysis with Wireshark](2.4-Introduction-to-packet-analysis-with-Wireshark.md)
+- [↓ Capturing and filtering network traffic (BPF filters)](2.5-Capturing-and-filtering-network-traffic-BPF-filters.md)
+- [↓ Identifying suspicious patterns: Port scans, ARP spoofing, DNS tunneling](2.6-Identifying-suspicious-patterns-Port-scans-ARP-spoofing-DNS-tunneling.md)
+- [↓ Using tcpdump for command-line packet capture](2.7-Using-tcpdump-for-command-line-packet-capture.md)
+- [↓ Network security monitoring (NSM) concepts and tools](2.8-Network-security-monitoring-NSM-concepts-and-tools.md)
+- [↓ Firewall rule configuration and testing](2.9-Firewall-rule-configuration-and-testing.md)
+- [↓ Lab: Analyze a simulated network attack using packet captures](2.10-Lab-Analyze-a-simulated-network-attack-using-packet-captures.md)
 
 ## References & Further Reading
 
