@@ -128,6 +128,9 @@ Develop expertise in OS security, system hardening, and cloud security.
 
 ## Additional Resources
 
+### Workshops & Training
+- [Linux Command Line Workshop](20240220-linux-workshop.md) - 3-hour beginner workshop covering Unix/Linux history, essential commands, filesystem navigation, and system internals
+
 ### Practice Platforms
 - [TryHackMe](https://tryhackme.com) - Guided cybersecurity learning
 - [HackTheBox](https://hackthebox.com) - Penetration testing labs
