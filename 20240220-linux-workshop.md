@@ -81,7 +81,9 @@ Still in production use:
 
 ---
 
-## Workshop Agenda (3 Hours)
+## Workshop Agenda
+
+**Duration:** 3 hours (including breaks)
 
 | Time | Topic | Format |
 |------|-------|--------|
@@ -148,6 +150,8 @@ Standard Linux directory structure:
 ├── boot/           Bootloader and kernel files
 └── lib/            Shared libraries
 ```
+
+![[assets/filesystem-tree.png|300]]
 
 ---
 
@@ -553,6 +557,8 @@ curl -I https://example.com
 - Applications and tools
 - Uses system calls to request kernel services
 - Protected memory (cannot crash kernel)
+
+![[assets/kernel-userspace-diagram.png]]
 
 ### Init System (systemd)
 
